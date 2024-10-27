@@ -1,5 +1,5 @@
 {
-	"name": "rx-worker-pool",
+	"name": "worker-pool-rx",
 	"version": "0.1.0",
 	"license": "ISC",
 	"author": "Tao Cumplido",
